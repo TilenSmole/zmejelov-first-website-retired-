@@ -7,7 +7,6 @@ a.navbar-brand[b-e1s1zkpa4w] {
   color:#E950F4;
   white-space: normal;
   text-align: left;
-  word-break: break-all;
 }
 
 a[b-e1s1zkpa4w] {
@@ -34,7 +33,7 @@ a[b-e1s1zkpa4w] {
 }
 
 .box-shadow[b-e1s1zkpa4w] {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, 0);
 }
 
 button.accept-policy[b-e1s1zkpa4w] {
@@ -48,4 +47,11 @@ button.accept-policy[b-e1s1zkpa4w] {
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
+}
+.theFinalRage[b-e1s1zkpa4w] {
+  color: #fff;
+}
+
+.theFinalRage em[b-e1s1zkpa4w] {
+  color: #ffa500;
 }

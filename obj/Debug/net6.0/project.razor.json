@@ -18407,6 +18407,11 @@
       "FilePath": "c:\\Users\\tilen\\Desktop\\personal\\zmejelov\\website 2.0\\zmejelov\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\tilen\\Desktop\\personal\\zmejelov\\website 2.0\\zmejelov\\Pages\\verzije.cshtml",
+      "TargetPath": "Pages\\verzije.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.3"
